@@ -71,7 +71,6 @@ def generate_word(word_hash, words):
             break
         else:
             words = words[:-1]
-    print(weighted_words, words)
     return choose_weighted(weighted_words)
 
 
