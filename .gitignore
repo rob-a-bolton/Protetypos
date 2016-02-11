@@ -1,0 +1,5 @@
+clojure/target
+clojure/dev-resources
+clojure/.lein-repl-history
+*~
+*.swp
